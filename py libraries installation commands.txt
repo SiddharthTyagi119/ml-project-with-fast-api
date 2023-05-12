@@ -1,0 +1,10 @@
+pip install fastapi
+pip install uvicorn
+pip install pickle5
+pip install pydantic
+pip install scikit-learn
+pip install requests
+pip install pypi-json
+
+#to run the app- uvicorn ml_api:api
+#paste the o/p url in api_implementation.py and after that run api_implementation.py
